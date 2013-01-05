@@ -1,3 +1,6 @@
+Chrome extension for setting location in time shift page in PivotalTracker.
+Currently it sets it to 'Singapore'.
+
 Installation:
 =============
 
